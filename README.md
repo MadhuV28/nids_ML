@@ -1,6 +1,3 @@
-# Network Intrusion Detection System Machine Learning Project - COMP SCI 642: Introduction to Information Security - Fall 2024 - Prof. McDaniel
-
-## Due date: See Canvas
 
 
 ## Description
